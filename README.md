@@ -1,8 +1,12 @@
-# React + Vite
+AI_Summarizer for mean project 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Make sure that: 
+You create your own " .env " file inside project and copied following: 
 
-Currently, two official plugins are available:
+VITE_RAPID_API_ARTICLE_KEY = < YOUR_TOKEN >   
+To get token visit:  
+https://rapidapi.com/restyler/api/article-extractor-and-summarizer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Subcribe to API which provides with AI - article summarizer  
+
+Have a nice day <3 
